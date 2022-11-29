@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-ctj*#rxalt^)o1&bl1y=mo*h1$pq213(xn*un^6r)5wd#ie#1o
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [msdocs-python-webapp-quickstart-bbc.azurewebsites.net]
 
 
 # Application definition
